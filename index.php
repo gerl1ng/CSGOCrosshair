@@ -39,7 +39,7 @@ $kineticjs = "javascript/kinetic-v4.5.4.js";
     src="<?php echo $javascript; ?>jquery-ui-1.9.2.custom.min.js"></script>
 <script type="text/javascript"
     src="<?php echo $javascript; ?>spectrum.js"></script>
-<script type="text/javascript" src="javascript/javascript<?php echo !$localhost ? ".min" : ""; ?>.js"></script>
+<script type="text/javascript" src="javascript/javascript.min.js"></script>
 <link rel="stylesheet"
     href="css/ui-lightness/jquery-ui-1.9.2.custom.min.css">
 <link rel="stylesheet" href="<?php echo $css; ?>spectrum.css">
